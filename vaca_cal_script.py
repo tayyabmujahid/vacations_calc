@@ -6,3 +6,4 @@ for i in a:
     print(i)
     if 1 in i:
         print("tayyab")
+        print("noaman")
